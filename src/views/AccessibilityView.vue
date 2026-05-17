@@ -15,7 +15,7 @@
 
         <p>
           Diese Erklärung zur Barrierefreiheit gilt für die Website
-          von TimeCore sowie sämtliche dazugehörigen Unterseiten.
+          von TimeCore sowie sämtliche dazugehörigen Inhalten.
         </p>
 
         <p>

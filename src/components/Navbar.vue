@@ -4,8 +4,12 @@ defineEmits(['navigate'])
 
 <template>
   <header class="navbar">
-    <button class="logo" @click="$emit('navigate', 'home')" aria-label="Zur Startseite">
-      ◷ TimeCore
+    <button
+        class="logo"
+        @click="$emit('navigate', 'home')"
+        aria-label="Zur Startseite"
+    >
+      <span class="brand-time">Time</span><span class="brand-core">Core</span>
     </button>
 
     <nav aria-label="Hauptnavigation">
@@ -41,6 +45,15 @@ nav button {
 .logo {
   font-size: 1.3rem;
   font-weight: 800;
+  letter-spacing: -0.02em;
+}
+
+.brand-time {
+  color: #ffffff;
+}
+
+.brand-core {
+  color: #14b8a6;
 }
 
 nav {

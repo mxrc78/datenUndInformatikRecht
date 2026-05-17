@@ -9,7 +9,7 @@
         <li>Windows 10/11, macOS oder Linux</li>
         <li>Mindestens 4 GB RAM</li>
         <li>500 MB freier Speicherplatz</li>
-        <li>Internetverbindung für Cloud-Synchronisation</li>
+
       </ul>
 
       <button class="btn btn-primary" @click="alert('Dies ist ein Demo-Webshop. Der Downloadprozess wurde simuliert.')">

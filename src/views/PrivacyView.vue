@@ -15,8 +15,8 @@
 
       <p>
         Im Rahmen der Nutzung dieser Website können personenbezogene Daten wie
-        Name, E-Mail-Adresse, Kontaktanfragen, Unternehmensdaten,
-        IP-Adressen sowie technische Serverlogs verarbeitet werden.
+        Name, E-Mail-Adresse, Kontaktanfragen
+        verarbeitet werden.
       </p>
 
       <h2>Zwecke der Verarbeitung</h2>
@@ -40,8 +40,7 @@
 
       <p>
         Personenbezogene Daten werden nur so lange gespeichert,
-        wie dies für die jeweiligen Zwecke erforderlich ist
-        beziehungsweise gesetzliche Aufbewahrungspflichten bestehen.
+        wie dies für die jeweiligen Zwecke erforderlich ist.
       </p>
 
       <h2>Weitergabe der Daten</h2>
@@ -59,28 +58,14 @@
         Berichtigung, Löschung, Einschränkung der Verarbeitung,
         Datenübertragbarkeit sowie Widerspruch gegen die Verarbeitung.
       </p>
-
-      <h2>Kontakt & Aufsichtsbehörde</h2>
+      <h2>Kontakt</h2>
 
       <p>
-        Kontakt:
-        <strong>support@timecore.at</strong>
+        TimeCore<br>
+        E-Mail: support@timecore.at
       </p>
 
-      <p>
-        Wenn Sie der Ansicht sind, dass die Verarbeitung Ihrer Daten
-        gegen Datenschutzrecht verstößt, können Sie sich bei der
-        Österreichischen Datenschutzbehörde beschweren.
-      </p>
-
-      <p>
-        Österreichische Datenschutzbehörde<br>
-        Barichgasse 40–42<br>
-        1030 Wien<br>
-        www.dsb.gv.at
-      </p>
-
-      <p>
+      <p class="last-update">
         Stand: Juni 2026
       </p>
 

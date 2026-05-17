@@ -10,12 +10,14 @@ import farbmarke from '../assets/farbmarke.png'
     <h1>About Us</h1>
 
     <p class="lead">
-      TimeCore Solutions GmbH entwickelt moderne Softwarelösungen für digitale
+      TimeCore entwickelt moderne Softwarelösungen für digitale
       Zeiterfassung, Projekttracking und effiziente Teamorganisation.
     </p>
 
     <div class="company-card">
-      <h2>TimeCore</h2>
+      <h2>
+        <span class="brand-time">Time</span><span class="brand-core">Core</span>
+      </h2>
 
       <p><strong>Standort:</strong> Wien, Österreich</p>
       <p><strong>Mitarbeiter:</strong> 6</p>
@@ -55,8 +57,7 @@ import farbmarke from '../assets/farbmarke.png'
 
         <p>
           Die Wortbildmarke kombiniert den Schriftzug „TimeCore“ mit dem
-          minimalistischen Uhrsymbol. Sie bildet die primäre visuelle
-          Unternehmensidentität.
+          minimalistischen Uhrsymbol.
         </p>
 
         <p>
@@ -98,8 +99,7 @@ import farbmarke from '../assets/farbmarke.png'
         </p>
 
         <p>
-          Dunkelblau steht für Vertrauen, Sicherheit und Professionalität.
-          Türkis symbolisiert Innovation, digitale Technologie und Effizienz.
+          Die Kombination aus Dunkelblau und Türkis steht für Innovation, Technologie und Effizienz
         </p>
       </article>
     </div>
@@ -170,6 +170,14 @@ import farbmarke from '../assets/farbmarke.png'
 
 .subheading {
   margin-bottom: 28px;
+}
+
+.brand-time {
+  color: #ffffff;
+}
+
+.brand-core {
+  color: #14b8a6;
 }
 
 .brand-grid {

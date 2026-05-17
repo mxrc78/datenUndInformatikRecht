@@ -8,7 +8,11 @@ defineEmits(['navigate'])
   <section class="hero">
     <div>
       <p class="badge">Digitale Zeiterfassung für Teams</p>
-      <h1>TimeCore</h1>
+
+      <h1>
+        <span class="brand-time">Time</span><span class="brand-core">Core</span>
+      </h1>
+
       <p class="slogan">Intelligente Zeiterfassung für moderne Unternehmen.</p>
 
       <div class="actions">
@@ -28,7 +32,6 @@ defineEmits(['navigate'])
           class="dashboard-image"
       />
     </div>
-
   </section>
 </template>
 
@@ -52,6 +55,14 @@ defineEmits(['navigate'])
 h1 {
   font-size: clamp(3rem, 8vw, 6rem);
   margin: 0;
+}
+
+.brand-time {
+  color: #ffffff;
+}
+
+.brand-core {
+  color: #14b8a6;
 }
 
 .slogan {
