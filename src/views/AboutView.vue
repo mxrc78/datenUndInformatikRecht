@@ -100,6 +100,8 @@ import farbmarke from '../assets/farbmarke.png'
         <p>
           Dunkelblau steht für Vertrauen, Sicherheit und Professionalität.
           Türkis symbolisiert Innovation, digitale Technologie und Effizienz.
+
+          PIMEELLLLLLL
         </p>
       </article>
     </div>
