@@ -11,7 +11,7 @@ import farbmarke from '../assets/farbmarke.png'
 
     <p class="lead">
       TimeCore entwickelt moderne Softwarelösungen für digitale
-      Zeiterfassung, Projekttracking und effiziente Teamorganisation.
+      Zeiterfassung und Projekttracking
     </p>
 
     <div class="company-card">
