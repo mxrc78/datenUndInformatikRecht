@@ -1,33 +1,90 @@
 <template>
-  <section class="section">
-    <h1>Datenschutzerklärung</h1>
+  <section class="section legal-page">
 
-    <div class="card">
+    <div class="legal-card">
+
+      <h1>Datenschutzerklärung</h1>
+
       <p>
-        Diese Demo-Website verarbeitet keine echten Bestellungen. Die folgenden Hinweise beschreiben typische
-        Webshop-Prozesse gemäß DSGVO.
+        Der Schutz personenbezogener Daten ist TimeCore ein wichtiges Anliegen.
+        Personenbezogene Daten werden ausschließlich im Rahmen der gesetzlichen
+        Bestimmungen der Datenschutz-Grundverordnung (DSGVO) verarbeitet.
       </p>
 
-      <h2>Cookies</h2>
-      <p>Es können technisch notwendige Cookies zur Darstellung der Website verwendet werden.</p>
+      <h2>Datenkategorien</h2>
 
-      <h2>Kontaktformular</h2>
-      <p>Bei Nutzung des Kontaktformulars würden Name, E-Mail-Adresse und Nachricht verarbeitet werden.</p>
+      <p>
+        Im Rahmen der Nutzung dieser Website können personenbezogene Daten wie
+        Name, E-Mail-Adresse, Kontaktanfragen, Unternehmensdaten,
+        IP-Adressen sowie technische Serverlogs verarbeitet werden.
+      </p>
 
-      <h2>Analyse-Tools</h2>
-      <p>Analyse-Tools sind nur gemockt. In einer echten Website wäre eine Einwilligung erforderlich.</p>
+      <h2>Zwecke der Verarbeitung</h2>
 
-      <h2>Downloadanfragen</h2>
-      <p>Downloadanfragen werden in dieser Demo nicht gespeichert.</p>
+      <p>
+        Die Verarbeitung personenbezogener Daten erfolgt zur Bereitstellung
+        der Website, zur Bearbeitung von Kontakt- und Downloadanfragen,
+        zur technischen Sicherheit sowie zur Verbesserung der Benutzerfreundlichkeit.
+      </p>
 
-      <h2>Serverlogs</h2>
-      <p>Beim Hosting können technische Zugriffsdaten wie IP-Adresse, Zeitpunkt und Browsertyp anfallen.</p>
+      <h2>Cookies & Analyse-Tools</h2>
+
+      <p>
+        Diese Website kann technisch notwendige Cookies verwenden,
+        um grundlegende Funktionen bereitzustellen.
+        Analyse- und Trackingfunktionen werden ausschließlich
+        zu Demonstrationszwecken dargestellt.
+      </p>
+
+      <h2>Speicherdauer</h2>
+
+      <p>
+        Personenbezogene Daten werden nur so lange gespeichert,
+        wie dies für die jeweiligen Zwecke erforderlich ist
+        beziehungsweise gesetzliche Aufbewahrungspflichten bestehen.
+      </p>
+
+      <h2>Weitergabe der Daten</h2>
+
+      <p>
+        Eine Weitergabe personenbezogener Daten erfolgt nur,
+        sofern dies gesetzlich erforderlich ist oder zur technischen
+        Bereitstellung der Website notwendig ist.
+      </p>
 
       <h2>Betroffenenrechte</h2>
+
       <p>
-        Nutzer haben Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit
-        und Beschwerde bei der Datenschutzbehörde.
+        Nutzer:innen haben grundsätzlich das Recht auf Auskunft,
+        Berichtigung, Löschung, Einschränkung der Verarbeitung,
+        Datenübertragbarkeit sowie Widerspruch gegen die Verarbeitung.
       </p>
+
+      <h2>Kontakt & Aufsichtsbehörde</h2>
+
+      <p>
+        Kontakt:
+        <strong>support@timecore.at</strong>
+      </p>
+
+      <p>
+        Wenn Sie der Ansicht sind, dass die Verarbeitung Ihrer Daten
+        gegen Datenschutzrecht verstößt, können Sie sich bei der
+        Österreichischen Datenschutzbehörde beschweren.
+      </p>
+
+      <p>
+        Österreichische Datenschutzbehörde<br>
+        Barichgasse 40–42<br>
+        1030 Wien<br>
+        www.dsb.gv.at
+      </p>
+
+      <p>
+        Stand: Juni 2026
+      </p>
+
     </div>
+
   </section>
 </template>
