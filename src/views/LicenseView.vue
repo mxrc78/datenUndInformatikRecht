@@ -94,6 +94,9 @@
         <strong>OpenAI Image Generation</strong>
         erstellt und dienen ausschließlich Demonstrations-
         und Bildungszwecken.
+
+        Teile des Programmcodes dieser Website wurden mit Unterstützung
+        von KI-Tools erstellt und anschließend angepasst.
       </p>
 
       <p>
